@@ -3,6 +3,7 @@ import Todo from './Todo';
 const Todos = (state = [],action) => {
     switch(action.type){
         case "ADD":
+            action.id = state.length
             return [
                 ...state,
                 Todo(undefined,action)
