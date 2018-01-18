@@ -1,4 +1,4 @@
-# React-todoist ([Live Demo](https://anandmv.github.io/react-todoist/))
+# React-todoist 
 React.js Redux Bootstrap todo list with filters
 
 ## Available Scripts
